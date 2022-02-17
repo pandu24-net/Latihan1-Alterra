@@ -1,4 +1,9 @@
-rangkuman materi section 1
-- pembelajaran mengenai GIT mulai dari penginstalan hingga pembuatan repositori yang didalamnya diajarkan mengenai pembuatan branch
-- setiap branch memiliki fungsinya masing2 seperti fungsi branch untuk update bagian back-end kedepannya dan lain-lain sehingga pekerjaan lain tidak terganggu
-- ada beberapa command yang harus digunakan untuk membuat branch yang diawali dengan "git" dan setiap perintah memiliki fungsinya masing-masing
+rangkuman materi section 1 ( 15 februari 2022)
+- pembelajaran mengenai GIT mulai dari penginstalan hingga pembuatan repositori yang didalamnya diajarkan mengenai pembuatan branch.
+- setiap branch memiliki fungsinya masing2 seperti fungsi branch untuk update bagian back-end kedepannya dan lain-lain sehingga pekerjaan lain tidak terganggu.
+- ada beberapa command yang harus digunakan untuk membuat branch yang diawali dengan "git" dan setiap perintah memiliki fungsinya masing-masing.
+
+rangkuman materi section 2 ( 17 februari 2022)
+- pengertian umum dari UI ( user interface) dan UX (user experience) yang dimana UI merupakan tampilan visual dari sebuah aplikasi digital yang digunakan untuk menampilkan informasi dan sebagai media aksi untuk user konsumen, sedangkan ux merupakan pengalaman seseorang ketika menggunakan sebuah aplikasi tertentu.
+- pada design thinking dibagi menjadi 5 bagian penting yaitu empathize, define, ideate, protorype hingga test
+- terdapat banyak ketentuan mulai dari basic rule UI/UX yang musti di perhatikan oleh semua orang yang bergelut dalam dunia UI/UX mulai dari basic rule (memahami user,kejelasan sistem, menyerupai dunia nyata, kebebasan pengguna, konsisten,mencegah error, mengenali dariada mengingat, fleksibel dan efisien,estetik dan minimalis), jenis prototype(low fidelity, medium fidelity, high fidelity), hingga user testing.
