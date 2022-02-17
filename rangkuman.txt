@@ -1,0 +1,4 @@
+rangkuman materi section 1
+- pembelajaran mengenai GIT mulai dari penginstalan hingga pembuatan repositori yang didalamnya diajarkan mengenai pembuatan branch
+- setiap branch memiliki fungsinya masing2 seperti fungsi branch untuk update bagian back-end kedepannya dan lain-lain sehingga pekerjaan lain tidak terganggu
+- ada beberapa command yang harus digunakan untuk membuat branch yang diawali dengan "git" dan setiap perintah memiliki fungsinya masing-masing
